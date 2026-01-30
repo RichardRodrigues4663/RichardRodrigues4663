@@ -1,14 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=73&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Sou%20o%20Richard%20Rodrigues,%20Dev%20Front-end%20React&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=70&rotate=0&stroke=-&desc=Ol%C3%A1%20bem%20vindo%20ao%20meu%20GitHub!&descSize=30&descAlign=50&descAlignY=35&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="left">Olá, bem vindo ao meu Github!<br>Sou o Richard Rodrigues, Dev Front-end React</h1>
-
-###
-
-<p align="left">Hello World!!</p>
+<p align="left">Desenvolvedor front-end com foco em React, trabalhando na construção de interfaces reutilizáveis, responsivas e bem organizadas. Busco evoluir constantemente em componentização, estado e boas práticas.</p>
 
 ###
 
@@ -34,6 +30,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardRodrigues4663/RichardRodrigues4663/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardRodrigues4663/RichardRodrigues4663/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RichardRodrigues4663/RichardRodrigues4663/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/richard-rodrigues-18096327a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -42,16 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/RichardRodrigues4663/RichardRodrigues4663/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RichardRodrigues4663.RichardRodrigues4663&"  />
 </div>
 
 ###
